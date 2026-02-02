@@ -14,7 +14,7 @@ const Footer = () => {
         <div className='grid grid-cols-2 md:grid-cols-4 gap-8'>
             <div>
                 <h1 className='font-bold text-4xl mb-4'><span className='text-red-500'>Trip</span>Buddy</h1>
-                <p className='text-sm'>We're dedicated to making your travel dreams come true with expertly curated tours and unforgettable experiences.</p>
+                <p className='text-sm'>We're dedicated to making your travel dreams comes true with expertly curated tours and unforgettable experiences.</p>
             </div>
             <div className='flex flex-col lg:items-center'>
                 <h3 className='text-lg font-semibold mb-4'>Quick Links</h3>
