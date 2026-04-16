@@ -30,7 +30,7 @@ const Footer = () => {
                 <h3 className='text-lg font-semibold mb-4'>Contact Us</h3>
                 <ul className='space-y-2 text-sm'>
                     <li>91 Faridabad, City, Country</li>
-                    <li>Phone: 9318357751</li>
+                    <li>Phone: 9318357781</li>
                     <li>Email: info@trip-karo.com</li>
                 </ul>
             </div>
